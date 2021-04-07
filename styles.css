@@ -1,0 +1,21 @@
+
+.container {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table th, table td{
+    font-family: 'Press Start 2P', cursive;
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+table td{
+    text-align: center;
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+}
